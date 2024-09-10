@@ -110,5 +110,5 @@ echo "Delete hotfix branch Started"
 checkout_all_backend_modules
 checkout_all_frontend_modules
 echo "Delete hotfix branch Completed Successfully"
-``
+```
 
